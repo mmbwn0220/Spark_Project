@@ -26,8 +26,6 @@ Split the dataset into train, test, and validation sets. Test out the machine le
 
 
 
-
 Instructions:
 
 To run this script, necessary pyspark packages need to be included like pyspark.sql, pyspark.sql.functions, pyspark.sql.types, pyspark.ml.feature , pyspark.ml.linalg, pyspark.ml.classification, pyspark.mllib.evaluation
-
