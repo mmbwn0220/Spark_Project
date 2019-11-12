@@ -3,7 +3,7 @@
 
 Project Overview
 
-Customer churn (also known as customer attrition, customer turnover or customer defection) is a term used especially in the world of subscription-based businesses to describe loss of customers. It is a major concern for many businesses because it directly affects your service’s profitability. This project is analyze an online user log dataset to build a model for churn prediction. This project is utilized Spark to do the data wrangling data  and modeling to make prediction. 
+Customer churn (also known as customer attrition, customer turnover or customer defection) is a term used especially in the world of subscription-based businesses to describe loss of customers. It is a major concern for many businesses because it directly affects  service’s profitability. This project is analyze an  Sparkify online user log dataset to build a model for churn prediction. This project is utilized Spark to do the data wrangling and modeling to make prediction. 
 
 
 Project Components
@@ -22,7 +22,7 @@ create necessary features found promising in EDA stage to train your model on to
 
 4.	Modeling
 
-Split the dataset into train, test, and validation sets. Test out the machine learning methods like logistic regression model, SVM, random forest classifier model and gradient boosted trees . Evaluate the accuracy of each models, determine winning model based on test accuracy and report results on the test set. My winning model is Gradient boosted trees . Also did feature Importances analysis from it 
+Split the dataset into train, test, and validation sets. Test out the machine learning methods like logistic regression model, SVM, random forest classifier model and gradient boosted trees . Evaluate the accuracy of each models, determine winning model based on test accuracy and report results on the test set. My winning model is Gradient boosted trees . I also did feature importances analysis from it to analyze most important features for prediction.
 
 
 
